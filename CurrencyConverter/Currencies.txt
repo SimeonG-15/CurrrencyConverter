@@ -1,0 +1,37 @@
+Chinese yuan:0.1046070000
+Euro:0.8130680000
+Japanese yen:0.0048210400
+U.K. pound:0.9616470000
+U.S. dollar:0.7590250000
+Algerian dinar:0.0056426400
+Australian dollar:0.5010320000
+Botswana pula:0.0557124000
+Brazilian real:0.1402380000
+Brunei dollar:0.5611420000
+Canadian dollar:0.5522990000
+Chilean peso:0.0008175010
+Czech koruna:0.0329209000
+Danish krone:0.1089860000
+Indian rupee:0.0090918100
+Israeli New Shekel:0.2033830000
+Korean won:0.0005509360
+Kuwaiti dinar:2.4766600000
+Malaysian ringgit:0.1611060000
+Mauritian rupee:0.0161060000
+Mexican peso:0.0409735000
+New Zealand dollar:0.4652060000
+Norwegian krone:0.0707874000
+Peruvian sol:0.2006410000
+Philippine peso:0.0129456000
+Polish zloty:0.1863640000
+Qatari riyal:0.2085090000
+Russian ruble:0.0085235900
+Saudi Arabian riyal:0.2023930000
+Singapore dollar:0.5611420000
+South African rand:0.0417290000
+Swedish krona:0.0719956000
+Swiss franc:0.8508300000
+Thai baht:0.0206459000
+Trinidadian dollar:0.1123100000
+U.A.E. dirham:0.2066640000
+Uruguayan peso:0.0192950000
